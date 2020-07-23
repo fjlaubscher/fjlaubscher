@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi! I'm Francois. <br /> I :heart: love building for the web.
 
-<!--
-**fjlaubscher/fjlaubscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance software engineer based in Cape Town, South Africa, with 8+ years of experience in developing and maintaining robust web apps.<br />
+My work experience stretches across various industries, from structured corporate environments to dynamic and high-pressure environments such as tech startups and agencies.<br />
+Working in these environments has enabled me to develop software which improves the productivity and efficiency of business processes.
+<hr />
 
-Here are some ideas to get you started:
+### 👨‍💻 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :gear: [Helix](https://github.com/fjlaubscher/helix): React + TypeScript boilerplate which I use in all of my React projects.
+- :clock2: [keepr](https://github.com/keepr): Time-keeping and invoicing for freelancers, built with React, TypeScript and C# (similar to something like Harvest).
+- :money_with_wings: [geld](https://github.com/fjlaubscher/geld): Tracking all of my income and expenses to make my life easier when it comes to tax season.
+
+### Links
+- :earth_africa: [Website](https://francois.codes)
+- :headphones: [Spotify](https://open.spotify.com/user/fjlaubscher)
+- :necktie: [LinkedIn](https://www.linkedin.com/in/fjlaubscher)
