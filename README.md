@@ -6,6 +6,6 @@ Working in these environments has enabled me to develop software which improves 
 <hr />
 
 ### Links
-- :earth_africa: [Website](https://francois.codes)
+- :earth_africa: [Website](https://francoislaubscher.com)
 - :headphones: [Spotify](https://open.spotify.com/user/fjlaubscher)
 - :necktie: [LinkedIn](https://www.linkedin.com/in/fjlaubscher)
