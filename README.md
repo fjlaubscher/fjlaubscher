@@ -1,8 +1,11 @@
 # Hi! I'm Francois. <br /> I :heart: building for the web.
 
-I'm a Freelance Software Engineer with 11+ years of experience in developing and maintaining robust web apps.<br />
-My work experience stretches across various industries, from structured corporate environments to dynamic and high-pressure environments such as tech startups and agencies.<br />
-Working in these environments has enabled me to develop software which improves the productivity and efficiency of business processes.
+I'm a Freelance Software Engineer with 11+ years of experience in developing and maintaining robust web applications.
+
+I've honed my skills across diverse industries, from structured corporations to dynamic tech startups and agencies. My expertise lies in crafting software solutions that streamline business processes and boost efficiency.
+
+As a seasoned remote worker of 6+ years, I've cultivated a strong work ethic and the ability to thrive in flexible environments.
+
 <hr />
 
 ### Links
