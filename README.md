@@ -1,10 +1,11 @@
 # Hi! I'm Francois. <br /> I :heart: building for the web.
 
-I'm a Freelance Software Engineer with 11+ years of experience in developing and maintaining robust web applications.
+I'm a Senior Full-stack Engineer at [Toptal](https://toptal.com) with 12 years of experience building and maintaining robust web applications.
 
-I've honed my skills across diverse industries, from structured corporations to dynamic tech startups and agencies. My expertise lies in crafting software solutions that streamline business processes and boost efficiency.
+Throughout my career, I've contributed to projects across a wide spectrum of environments—from structured enterprises to high-velocity startups and agencies—crafting solutions that streamline operations and elevate user experiences.
+My technical focus centers on modern web technologies, especially `TypeScript`, `React` and `Node.js`.
 
-As a seasoned remote worker of 6+ years, I've cultivated a strong work ethic and the ability to thrive in flexible environments.
+With over 6 years of remote work experience, I thrive in distributed teams and bring a reliable, self-directed work ethic to every project.
 
 <hr />
 
