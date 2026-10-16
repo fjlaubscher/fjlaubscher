@@ -1,20 +1,33 @@
-# Hi! I'm Francois. 👋<br /> I :heart: building for the web.
+# Hi! I'm Francois. 👋
 
-I'm a Senior Software Engineer at [Toptal](https://toptal.com) with 13 years of experience building and maintaining robust web applications.
+I :heart: building for the web. Products of my own, and client work when the fit is right.
 
-Throughout my career, I've contributed to projects across a wide spectrum of environments -- structured enterprises, high-stakes startups and the odd creative agency.<br />
-I've always gravitated toward solving problems. My late father was a software developer, and my grandfather a statistician -- it's in the blood.
+I'm an independent software engineer, remote since 2018. Fourteen years across agencies, startups, and enterprises. I spent a long stretch at [Toptal](https://www.toptal.com), most recently as a senior full-stack engineer at ExpertCrowd, a Toptal company. I split my time between solution architecture, leading end-to-end delivery, and mentoring developers.
 
-On the front end, I focus on `React`, `TypeScript` and `CSS Modules`. On the back end, I usually reach for `Node.js`, but when performance or architecture call for it, I lean on `.NET`. <br />
-That same `.NET` affinity spills into my free time -- I'm currently building `warren`, a roguelike, with `MonoGame`.
+## What I work on
 
-With over 8 years of remote work experience, I thrive in distributed teams and bring a reliable, self-directed work ethic to every project.
+- **Kontak** — A classic sci-fi RTS, aiming for Command & Conquer-style gameplay, StarCraft 2-style UI/UX, and 16x16px sprites.
+- **[depot](https://github.com/fjlaubscher/depot)** · [godepot.dev](https://godepot.dev) — A free, open-source Warhammer 40,000 companion. Offline datasheets and roster sketching, from [Wahapedia](https://wahapedia.ru) data. No login, no ads. TypeScript.
+- **[rooivalk](https://github.com/fjlaubscher/rooivalk)** — A Discord bot that replies when mentioned, using OpenAI's API. TypeScript.
+- **[Chapterden](https://chapterden.app)** — Track books page by page, rate them, and note who borrowed a copy.
 
-<hr />
+WARREN is paused.
 
-I am grateful to have learned to build software before AI, and I'm just as grateful to be using it to accomplish tasks I would've struggled with in the past.
+## Tech I use
 
-### Links
+Front end: React, TypeScript, and CSS Modules. Back end: Node.js, and .NET when performance or architecture call for it.
+
+Favourites shift with the work. Right now it's SvelteKit and NestJS. I'll always have a soft spot for ASP.NET. C# was my first paying job, and I'm still writing it. SQL too.
+
+## About me
+
+I started coding as a teenager. Java at school moved too slowly, so I learned J# at home with my late father, a .NET developer to the end. Always ongeduldig, as my late mom would say: impatient. My grandfather was a statistician. It's in the blood.
+
+I'm grateful I learned to build software before AI, and just as grateful to be using it now.
+
+## Links
+
 - :earth_africa: [Website](https://francoislaubscher.dev)
 - :headphones: [Spotify](https://open.spotify.com/user/fjlaubscher)
 - :necktie: [LinkedIn](https://www.linkedin.com/in/fjlaubscher)
+- :bird: [X](https://x.com/fjlaubscher)
