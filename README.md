@@ -6,12 +6,9 @@ I'm an independent software engineer, remote since 2018. Fourteen years across a
 
 ## What I work on
 
-- **Kontak** — A classic sci-fi RTS, aiming for Command & Conquer-style gameplay, StarCraft 2-style UI/UX, and 16x16px sprites.
-- **[depot](https://github.com/fjlaubscher/depot)** · [godepot.dev](https://godepot.dev) — A free, open-source Warhammer 40,000 companion. Offline datasheets and roster sketching, from [Wahapedia](https://wahapedia.ru) data. No login, no ads. TypeScript.
-- **[rooivalk](https://github.com/fjlaubscher/rooivalk)** — A Discord bot that replies when mentioned, using OpenAI's API. TypeScript.
-- **[Chapterden](https://chapterden.app)** — Track books page by page, rate them, and note who borrowed a copy.
+My open-source projects are pinned below. The one that isn't:
 
-WARREN is paused.
+- **[Chapterden](https://chapterden.app)** — Track books page by page, rate them, and note who borrowed a copy.
 
 ## Tech I use
 
